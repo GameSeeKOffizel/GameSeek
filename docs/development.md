@@ -6,8 +6,8 @@ How GameSeek is deployed on the production VPS.
 
 ## Server
 
-- **OS:** Debian (VPS)
-- **Domain:** gameseekapp.xyz (managed via Porkbun)
+- **OS:** Debian Server 
+- **Domain:** gameseekapp.xyz 
 - **Reverse Proxy:** Nginx
 - **SSL:** Let’s Encrypt
 
