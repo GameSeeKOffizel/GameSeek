@@ -14,7 +14,7 @@ GameSeek is a full-stack real-time communication platform with a desktop app, we
 |Real-time    |WebSockets        |
 |Voice / Video|WebRTC            |
 |Database     |SQLite            |
-|Server       |Debian VPS        |
+|Server       |Debian Server     |
 |Reverse Proxy|Nginx             |
 |Email        |SendGrid          |
 
