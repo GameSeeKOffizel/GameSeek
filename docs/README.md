@@ -8,7 +8,6 @@
 
 | File | Description |
 |------|-------------|
-| [setup.md](./setup.md) | How to run GameSeek locally (dev setup) |
 | [architecture.md](./architecture.md) | System overview & tech stack |
 | [api.md](./api.md) | WebSocket & HTTP API reference |
 | [features.md](./features.md) | Feature overview |
