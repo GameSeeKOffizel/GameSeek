@@ -24,7 +24,7 @@ GameSeek is a full-stack real-time communication platform with a desktop app, we
 
 ```
 ┌─────────────────────────────────────┐
-│           Client (Frontend)          │
+│           Client (Frontend)         │
 │                                     │
 │  ┌──────────────┐  ┌─────────────┐  │
 │  │  Electron    │  │  Browser    │  │
