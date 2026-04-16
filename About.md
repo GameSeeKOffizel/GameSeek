@@ -1,4 +1,4 @@
-# 👤 Founder | Co.Founder.
+# 👤 Founder | Co.Founder
 
 ## About
 Gameseek is an independent project created and developed by a young solo developer (18).
