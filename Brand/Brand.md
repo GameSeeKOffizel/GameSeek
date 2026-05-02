@@ -1,6 +1,6 @@
 # 🎮 GameSeek
 
-![GameSeek Logo](GameSeek_NO_BG.png)
+![GameSeek Logo](GameSeek_Logo.png)
 
 ## 🚀 About GameSeek
 
