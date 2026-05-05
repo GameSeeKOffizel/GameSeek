@@ -1,4 +1,4 @@
-# 🤝 Join GameSeek.
+# 🤝 Join GameSeek
 
 Gameseek is an independent project and currently built by a solo developer.
 
