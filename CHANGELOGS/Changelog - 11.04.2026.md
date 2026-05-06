@@ -79,7 +79,7 @@
 | | |
 |---|---|
 | 🎵 **TikTok** | [tiktok.com/@gameseekoffizel](https://www.tiktok.com/@gameseekoffizel) |
-| 🌐 **Website** | [gameseekapp.xyz](https://gameseekapp.xyz/) |
+| 🌐 **Website** | [gameseekapp.com](https://gameseekapp.com) |
 
 <br>
 
