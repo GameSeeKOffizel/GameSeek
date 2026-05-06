@@ -35,7 +35,7 @@ Help users, answer questions, and keep the community active.
 ## 📩 How to Apply
 If you're interested, you can apply by sending an email:
 
-📧 support@gameseekapp.xyz
+📧 jobs@gameseekapp.com
 
 Please include:
 - What role you are interested in
