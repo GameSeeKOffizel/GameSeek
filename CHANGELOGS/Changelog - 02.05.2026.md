@@ -55,6 +55,6 @@
 
 ## Links
 - TikTok: https://www.tiktok.com/@gameseekoffizel  
-- Website: https://gameseekapp.xyz/
+- Website: https://gameseekapp.com
 
 © 2026 GameSeek
