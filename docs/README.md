@@ -18,9 +18,9 @@
 
 ## 🔗 Quick Links
 
-- 🌐 Website: [gameseekapp.xyz](https://gameseekapp.xyz)
+- 🌐 Website: [gameseekapp.com](https://gameseekapp.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/GameSeekOffizel/GameSeek/issues)
-- 💬 Support: support@gameseekapp.xyz
+- 💬 Support: support@gameseekapp.com
 
 ---
 
