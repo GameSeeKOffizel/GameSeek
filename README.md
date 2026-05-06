@@ -3,7 +3,7 @@
 > 🚀 **The next-generation communication platform for gamers**  
 > Fast. Lightweight. Built for performance — everything your squad needs.
 
-[![Website](https://img.shields.io/badge/Website-gameseekapp.xyz-blue?style=for-the-badge)](https://gameseekapp.xyz)
+[![Website](https://img.shields.io/badge/Website-gameseekapp.xyz-blue?style=for-the-badge)](https://gameseekapp.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Web-green?style=for-the-badge)](https://github.com/GameSeekOfficial/GameSeek/releases)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge)](https://github.com/GameSeekOfficial/GameSeek/blob/main/Contributing.md)
 
@@ -15,7 +15,7 @@ GameSeek is a **free, open communication platform for gamers** — a modern alte
 
 Whether you're coordinating a raid, watching your friend’s gameplay, or just hanging out with your squad — **GameSeek has you covered.**
 
-🌐 **Try it now:** [gameseekapp.xyz](https://gameseekapp.xyz)
+🌐 **Try it now:** [gameseekapp.com](https://gameseekapp.com)
 
 -----
 
@@ -42,8 +42,8 @@ Whether you're coordinating a raid, watching your friend’s gameplay, or just h
 
 | Platform        | Link                                                  |
 |----------------|------------------------------------------------------|
-| 🌐 Web         | [gameseekapp.xyz](https://gameseekapp.xyz)            |
-| 🖥️ Windows     | [Download](https://gameseekapp.xyz)                   |
+| 🌐 Web         | [gameseekapp.com](https://gameseekapp.com)            |
+| 🖥️ Windows     | [Download](https://gameseekapp.com)                   |
 
 -----
 
@@ -78,8 +78,8 @@ Join early, test new features, and help shape the future of the platform.
 
 ## 🌍 Community & Support
 
-- 🌐 Website: [gameseekapp.xyz](https://gameseekapp.xyz)  
-- 📧 Support: support@gameseekapp.xyz  
+- 🌐 Website: [gameseekapp.com](https://gameseekapp.com)  
+- 📧 Support: support@gameseekapp.com  
 - 🐛 Issues: [GitHub Issues](https://github.com/YourUsername/GameSeek/issues)  
 
 -----
