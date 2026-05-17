@@ -1,4 +1,4 @@
-# ⚙️ How GameSeek is Built.
+# ⚙️ How GameSeek is Built
 
 > *One developer. Two platforms. Every single day.*
 
