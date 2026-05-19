@@ -1,4 +1,4 @@
-# 👤 Founder & Co-Founder — GameSeek
+# 👤 Founder & Co-Founder — GameSeek.
 
 > *Building a modern platform for gamers — from scratch, with passion.*
 
