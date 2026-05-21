@@ -1,4 +1,4 @@
-# 🔌 API Reference
+# 🔌 API Reference.
 
 GameSeek uses a combination of **WebSocket** messages and **HTTP** endpoints.
 
